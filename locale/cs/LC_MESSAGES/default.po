@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WizTree 3\n"
+"POT-Creation-Date: 2017-08-31 12:05\n"
+"PO-Revision-Date: 2023-11-09 12:06+1300\n"
+"Last-Translator: Dominic Dumée <webmaster@antibody-software.com>\n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: WizTreeMain.pas:673
+msgid "Scanning..."
+msgstr "Skenování..."
+
+#: WizTreeMain.pas:673 WizTreeMain.pas:4286
+msgid "Folders"
+msgstr "Složky"
+
+#: WizTreeMain.pas:673 WizTreeMain.pas:4283
+msgid "Files"
+msgstr "Soubory"
+
+#: WizTreeMain.pas:688
+msgid "Dumping file"
+msgstr "Soubor s výpisem"
+
+#: WizTreeMain.pas:688 WizTreeMain.pas:953
+msgid "MB"
+msgstr "MB"
+
+#: WizTreeMain.pas:950
+msgid "GB"
+msgstr "GB"
+
+#: WizTreeMain.pas:956
+msgid "KB"
+msgstr "KB"
+
+#: WizTreeMain.pas:961
+msgid "Bytes"
+msgstr "Bajty"
+
+#: WizTreeMain.pas:1141
+msgid "Files in"
+msgstr "Soubory v"
+
+#: WizTreeMain.pas:1143
+msgid "File in"
+msgstr "Soubor v"
+
+#: WizTreeMain.pas:1691 WizTreeMain.pas:1738
+msgid "Selected Files"
+msgstr "Vybrané Soubory"
+
+#: WizTreeMain.pas:1691 WizTreeMain.pas:1738 WizTreeMain.pas:3593
+msgid "Total Size"
+msgstr "Celková Velikost"
+
+#: WizTreeMain.pas:1874 WizTreeMain.pas:1976 WizTreeMain.pas:2033
+msgid "You are about to open"
+msgstr "Chystáte se otevřít"
+
+#: WizTreeMain.pas:1875
+msgid "Command Prompt windows - are you sure?"
+msgstr "Příkazový Řádek Windows - jste si jistí?"
+
+#: WizTreeMain.pas:1977
+msgid "Explorer windows - are you sure?"
+msgstr "Průzkumník Souborů Windows - jste si jistí?"
+
+#: WizTreeMain.pas:2034
+msgid "files - are you sure?"
+msgstr "soubory - jste si jistí?"
+
+#. FileName := FDir;
+#. 2 = select directory
+#: WizTreeMain.pas:2147 WizTreeMain.pas:2162 WizTreeMain.pas:3041
+msgid "Select Folder"
+msgstr "Vybraná Složka"
+
+#. YMMV
+#: WizTreeMain.pas:2149
+msgid "Select"
+msgstr "Vybrat"
+
+#: WizTreeMain.pas:2202
+msgid "File not found"
+msgstr "Soubor nenalezen"
+
+#: WizTreeMain.pas:2326
+msgid "Error"
+msgstr "Chyba"
+
+#: WizTreeMain.pas:2351
+msgid "Sorting file list..."
+msgstr "Řazení seznamu souborů..."
+
+#: WizTreeMain.pas:2362
+msgid "Loading tree..."
+msgstr "Načítání větvení..."
+
+#: WizTreeMain.pas:2406
+msgid "Scan complete in"
+msgstr "Sken dokončen za"
+
+#: WizTreeMain.pas:2408
+msgid "seconds"
+msgstr "sekund"
+
+#: WizTreeMain.pas:2412
+msgid "canceled"
+msgstr "zrušeno"
+
+#: WizTreeMain.pas:2480
+msgid "Failed to update Windows Explorer context menu"
+msgstr "Upravení kontextové nabídky Průzkumníku Souborů selhalo"
+
+#: WizTreeMain.pas:2560
+msgid "No MFT root found!"
+msgstr "Nenalezen žádný kořen MFT!"
+
+#. we have an update!
+#: WizTreeMain.pas:2640
+msgid "An update is available"
+msgstr "Aktualizace je dostupná"
+
+#: WizTreeMain.pas:2641
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "Pokud chcete vědět víc, klikněte na tlačítko \"Zobrazit Aktualizaci\"."
+
+#. if tag set then display error if any
+#: WizTreeMain.pas:2648
+msgid "No update found."
+msgstr "Nenalezeny žádné aktualizace."
+
+#. if tag set then display error if any
+#: WizTreeMain.pas:2660
+msgid "Error checking for updates:"
+msgstr "Chyba při hledání aktualizací:"
+
+#: WizTreeMain.pas:2836
+msgid "Please restart WizTree as Administrator to dump the MFT file"
+msgstr "K vytvoření výpisu MFT, spusťte WizTree jako Správce"
+
+#: WizTreeMain.pas:2844
+msgid "Please select an NTFS formatted drive."
+msgstr "Prosím, vyberte disk naformátovaný s NTFS."
+
+#: WizTreeMain.pas:2869
+msgid "Dumping MFT file, please wait..."
+msgstr "Vytváření výpisu MFT, počkejte prosím..."
+
+#: WizTreeMain.pas:2880
+msgid "MFT data dump complete."
+msgstr "Výpis MFT dat dokončen."
+
+#: WizTreeMain.pas:2884
+msgid "MFT data dumped to file"
+msgstr "MFT data byly vypsány do souboru"
+
+#: WizTreeMain.pas:2991
+msgid "64 bit"
+msgstr "64 bit"
+
+#: WizTreeMain.pas:2993
+msgid "32 bit"
+msgstr "32 bit"
+
+#: WizTreeMain.pas:3042
+msgid "MFT file"
+msgstr "MFT soubor"
+
+#: WizTreeMain.pas:3487
+msgid "Loading file list..."
+msgstr "Načítání seznamu souborů..."
+
+#: WizTreeMain.pas:3592
+msgid "files"
+msgstr "soubory"
+
+#. lblTotalSpacePerc.Caption := '';
+#: WizTreeMain.pas:3636 WizTreeMain.pas:3637 WizTreeMain.pas:3658
+#: WizTreeMain.pas:3663 WizTreeMain.pas:3666 WizTreeMain.pas:3674
+#: WizTreeMain.pas:3675 WizTreeMain.pas:3677 WizTreeMain.pas:3679
+#: WizTreeMain.pas:3681 WizTreeMain.pas:4268 WizTreeMain.pas:4269
+#: WizTreeMain.pas:4270 WizTreeMain.pas:4271 WizTreeMain.pas:4272
+#: WizTreeMain.pas:4273 WizTreeMain.pas:4274
+msgid "n/a"
+msgstr "n/a"
+
+#: WizTreeMain.pas:3648
+msgid "<Folder>"
+msgstr "<Složka>"
+
+#: WizTreeMain.pas:4228
+msgid "File"
+msgstr "Soubor"
+
+#: WizTreeMain.pas:4229
+msgid "Options"
+msgstr "Nastavení"
+
+#: WizTreeMain.pas:4230 WizTreeMain.pas:4260
+msgid "Scan"
+msgstr "Sken"
+
+#: WizTreeMain.pas:4231
+msgid "New Instance"
+msgstr "Nová Instance"
+
+#: WizTreeMain.pas:4232
+msgid "Explore Folder"
+msgstr "Prozkoumat Složku"
+
+#: WizTreeMain.pas:4233
+msgid "Command Prompt Here"
+msgstr "Otevřít zde Příkazový Řádek"
+
+#: WizTreeMain.pas:4234
+msgid "Copy Path"
+msgstr "Kopírovat Cestu"
+
+#: WizTreeMain.pas:4235
+msgid "Delete (to Recycle Bin)"
+msgstr "Smazat (do Koše)"
+
+#: WizTreeMain.pas:4236
+msgid "Delete (No undelete possible)"
+msgstr "Smazat (Neobnovitelné)"
+
+#: WizTreeMain.pas:4237
+msgid "Dump MFT File"
+msgstr "Vypsat MFT soubor"
+
+#: WizTreeMain.pas:4238
+msgid "Exit"
+msgstr "Odejít"
+
+#: WizTreeMain.pas:4240
+msgid "Display Dynamic values"
+msgstr "Zobrazit Dynamické hodnoty"
+
+#: WizTreeMain.pas:4241
+msgid "Display Byte values"
+msgstr "Zobrazit hodnoty v Bajtech"
+
+#: WizTreeMain.pas:4242
+msgid "Display KB values"
+msgstr "Zobrazit hodnoty v KB"
+
+#: WizTreeMain.pas:4243
+msgid "Display MB values"
+msgstr "Zobrazit hodnoty v MB"
+
+#: WizTreeMain.pas:4244
+msgid "Display GB values"
+msgstr "Zobrazit hodnoty v GB"
+
+#: WizTreeMain.pas:4245
+msgid "Windows Explorer context menu"
+msgstr "Kontextové menu Průzkumníku Souborů Windows"
+
+#: WizTreeMain.pas:4246
+msgid "Always Run as Administrator"
+msgstr "Spustit vždy jako Správce"
+
+#: WizTreeMain.pas:4248
+msgid "Language"
+msgstr "Jazyk"
+
+#: WizTreeMain.pas:4250
+msgid "Restart as Administrator"
+msgstr "Spustit znovu jako Správce"
+
+#: WizTreeMain.pas:4251
+msgid "WizTree requires \"Administrator\" rights to enable high speed scanning of NTFS hard drives and to access all system files and folders. Click on the \"Restart as Administrator\" button to enable Administrator rights."
+msgstr "WizTree vyžaduje \"Správcovská\" oprávnění k vysoko rychlostnímu skenování NTFS disku a k přístupu ke všem systémovým souborům a složkám. Klikněte na tlačítko \"Spustit jako Správce\", abyste udělili oprávnění Správce."
+
+#: WizTreeMain.pas:4252
+msgid "Don't show this again"
+msgstr "Neukazovat znovu"
+
+#: WizTreeMain.pas:4254
+msgid "View Update"
+msgstr "Zobrazit Aktualizaci"
+
+#: WizTreeMain.pas:4255
+msgid "Dismiss"
+msgstr "Odmítnout"
+
+#: WizTreeMain.pas:4256
+msgid "Check for updates"
+msgstr "Vyhledat aktualizace"
+
+#: WizTreeMain.pas:4257
+msgid "Check for updates now"
+msgstr "Vyhledat aktualizace teď"
+
+#: WizTreeMain.pas:4259
+msgid "Select:"
+msgstr "Vybrat:"
+
+#: WizTreeMain.pas:4261
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: WizTreeMain.pas:4262
+msgid "Ready..."
+msgstr "Připraveno..."
+
+#: WizTreeMain.pas:4263
+msgid "Selection:"
+msgstr "Výběr:"
+
+#: WizTreeMain.pas:4264
+msgid "Total Space:"
+msgstr "Celkové Místo:"
+
+#: WizTreeMain.pas:4265
+msgid "Space Used:"
+msgstr "Použité Místo:"
+
+#: WizTreeMain.pas:4266
+msgid "Space Free:"
+msgstr "Volné Místo:"
+
+#: WizTreeMain.pas:4276
+msgid "Help us make WizTree better!"
+msgstr "Pomozte nám vylepšit WizTree!"
+
+#: WizTreeMain.pas:4278
+msgid "Tree View"
+msgstr "Zobrazení Větvení"
+
+#: WizTreeMain.pas:4280
+msgid "Folder"
+msgstr "Složka"
+
+#: WizTreeMain.pas:4281
+msgid "Percent of Parent"
+msgstr "Procenta Rodiče"
+
+#: WizTreeMain.pas:4282 WizTreeMain.pas:4307
+msgid "Size"
+msgstr "Velikost"
+
+#: WizTreeMain.pas:4284 WizTreeMain.pas:4308
+msgid "Modified"
+msgstr "Upraveno"
+
+#: WizTreeMain.pas:4285 WizTreeMain.pas:4309
+msgid "Attributes"
+msgstr "Atributy"
+
+#: WizTreeMain.pas:4287
+msgid "Items"
+msgstr "Položky"
+
+#: WizTreeMain.pas:4288 WizTreeMain.pas:4310
+msgid "Allocated"
+msgstr "Alokované"
+
+#: WizTreeMain.pas:4290
+msgid "File View"
+msgstr "Zobrazení Souborů"
+
+#: WizTreeMain.pas:4292
+msgid "File Search Filter:"
+msgstr "Filtr Hledání Souborů:"
+
+#: WizTreeMain.pas:4293
+msgid "Clear"
+msgstr "Smazat"
+
+#: WizTreeMain.pas:4294
+msgid "Match file name only"
+msgstr "Shoda pouze s názvem souboru"
+
+#: WizTreeMain.pas:4295
+msgid "(Fast)"
+msgstr "(Rychlé)"
+
+#: WizTreeMain.pas:4296
+msgid "Match entire path"
+msgstr "Shoda s celou cestou"
+
+#: WizTreeMain.pas:4297
+msgid "(Warning: can be slow!)"
+msgstr "(Varování: může být pomalé!)"
+
+#: WizTreeMain.pas:4298
+msgid "Max files to display:"
+msgstr "Max. zobrazených souborů:"
+
+#: WizTreeMain.pas:4300
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(Vybrání VŠEHO může být velmi pomalé!)"
+
+#: WizTreeMain.pas:4301
+msgid "ALL"
+msgstr "VŠECHNO"
+
+#: WizTreeMain.pas:4303
+msgid "Total Files:"
+msgstr "Celkem Souborů:"
+
+#: WizTreeMain.pas:4305
+msgid "File Name"
+msgstr "Název Souboru"
+
+#: WizTreeMain.pas:4306
+msgid "Percent of Drive"
+msgstr "Procenta Disku"
+
+#: WizTreeMain.pas:4312
+msgid "About"
+msgstr "O Aplikaci"
+
+#: WizTreeMain.pas:4314
+msgid "If you use WizTree commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "Pokud používáte WizTree komerčně nebo byste pouze chtěli podpořit freeware komunitu, přispějte prosím kliknutím na tlačítko Darovat nahoře obrazovky. Děkuji! :)"
+
+#: WizTreeMain.pas:4316
+msgid "What is WizTree?"
+msgstr "Co je WizTree?"
+
+#: WizTreeMain.pas:4317
+msgid "WizTree is the world's fastest disk space analyzer. It scans your hard drive and shows you which files and folders are using the most disk space."
+msgstr "WizTree je nejrychlejší analyzátor disku na světě."
+
+#: WizTreeMain.pas:4318
+msgid "It does this in the FASTEST way possible - you simply won't find any other application of this type that's quicker! Use the information WizTree provides to quickly locate and remove \"space hogs\" from your hard drive."
+msgstr "Dělá to NEJRYCHLEJŠÍM možným způsobem - rychlejší aplikaci tohoto typu prostě nenajdete! Použijte informace poskytnuté WizTree k rychlému nalezení a odstranění \"žroutů\" místa na vašem disku."
+
+#: WizTreeMain.pas:4320
+msgid "WARNING: Take care not to remove any files that are required for the correct operation of your PC!"
+msgstr "VAROVÁNÍ: Dávejte pozor na odstraňování souborů nutných ke správnému běhu vašeho PC!"
+
+#: WizTreeMain.pas:4322
+msgid "What makes WizTree so fast?"
+msgstr "Co dělá WizTree tak rychlým?"
+
+#: WizTreeMain.pas:4324
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizTree reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "Při skenování disků s NTFS (většina moderních disků používá tento formát), WizTree čte Master File Table (MFT) přímo z disku."
+
+#: WizTreeMain.pas:4325
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT je speciální skrytý soubor používaný souborovým souborem NTFS k udržování záznamu o všech složkách a souborech na disku. Skenování disků tímto způsobem kompletně obejde Windows a přináší obrovský přínos ve výkonu."
+
+#: WizTreeMain.pas:4327
+msgid "As of version 2.0, WizTree can now also scan non NTFS hard drives, network drives, USB drives, and individual directories."
+msgstr "Od verze 2.0, WizTree dokáže skenovat také disky bez NTFS, síťové disky, USB disky a jednotlivé adresáře."
+
+#: WizTreeMain.pas:4329
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "Prosím, navštivte webovou stránku Antibody Software pro více skvělého softwaru, jako je:"
+
+#: WizTreeMain.pas:4330 WizTreeMain.pas:4334
+msgid "(click for more information)"
+msgstr "(klikněte pro více informací)"
+
+#: WizTreeMain.pas:4331
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "Výkonný a zároveň snadno použitelný nástroj pro stahování webových galerií. Podporuje většinu populárních webů pro hostování obrázků (například Flickr, Facebook, vyhledávání obrázků Google, Imgur, Deviantart atd.)."
+
+#: WizTreeMain.pas:4332
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "Nevyžaduje žádné komplikované setupy nebo projektové soubory - prostě to funguje."
+
+#: WizTreeMain.pas:4335
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "Nástroj rozšíření klávesnice usnadňuje psaní diakritiky nebo dalších speciálních Unicode symbolů na standartních US/UK klávesnicích používáním snadno zapamatovatelných klávesových zkratek."
+
+#: WizTreeMain.pas:4336
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "Například, abyste napsali à (s velkým přízvukem), zmáčkněte Ctrl +` a poté . Tyhle zkratky fungují pro jakoukoliv Windows aplikaci."
+
+#: SelectLanguage.pas:56 supportercode.pas:239
+msgid "OK"
+msgstr "OK"
+
+#: supportercode.pas:143
+msgid "Invalid Key - Please try again."
+msgstr "Neplatná Klíč - Zkuste to znovu."
+
+#: supportercode.pas:144
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "Je doporučené kopírovat a vložit váš kód podporovatele."
+
+#: supportercode.pas:145
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "Používejte pouze čísla od 0 do 9 a písmena od A do F."
+
+#: supportercode.pas:219 WizTreeMain.pas:6266
+msgid "Thank you for your support!"
+msgstr "Děkujeme za vaši podporu!"
+
+#: supportercode.pas:220
+msgid "WizTree will now restart."
+msgstr "WizTree se teď restartuje."
+
+#: supportercode.pas:241 WizTreeMain.pas:5286
+msgid "Enter Supporter Code"
+msgstr "Vložte Podporovatelský Kód"
+
+#: supportercode.pas:242
+msgid "Supporter Code"
+msgstr "Podporovatelský kód"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "Varování"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "Informace"
+
+#: WizTreeMain.pas:1616
+msgid "(No Extension)"
+msgstr "(Žádné Přípony)"
+
+#: WizTreeMain.pas:5269
+msgid "File Type"
+msgstr "Typ Souboru"
+
+#: WizTreeMain.pas:5272
+msgid "Percent"
+msgstr "Procenta"
+
+#: WizTreeMain.pas:5273
+msgid "Extension"
+msgstr "Přípona"
+
+#: WizTreeMain.pas:5276
+msgid "MFT Dump"
+msgstr "MFT Výpis"
+
+#: WizTreeMain.pas:5276
+msgid "All Files"
+msgstr "Všechny Soubory"
+
+#: WizTreeMain.pas:5277
+msgid "Show Treemap"
+msgstr "Ukázat mapu větvení"
+
+#: WizTreeMain.pas:5278
+msgid "Show File Types"
+msgstr "Ukázat Typy Souborů"
+
+#: WizTreeMain.pas:5279
+msgid "Reset tree expansion"
+msgstr "Resetovat rozšíření větvení"
+
+#: WizTreeMain.pas:5281
+msgid "Select Parent"
+msgstr "Vybrat Rodiče"
+
+#: WizTreeMain.pas:5282
+msgid "Reselect Child"
+msgstr "Vybrat znovu Dítě"
+
+#: WizTreeMain.pas:5283
+msgid "Help support WizTree development by making a donation"
+msgstr "Podpořte vývoj WizFile posláním finančního daru"
+
+#: WizTreeMain.pas:5284
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(Tlačítko Darovat skryjete provedením finančního daru.)"
+
+#: WizTreeMain.pas:6883
+msgid "Show Allocated Size on Treemap"
+msgstr "Ukázat Alokovanou Velikost na mapě větvení"
+
+#: WizTreeMain.pas:6884
+msgid "Auto scan after making selection"
+msgstr "Po výběru automatický sken"
+
+#: WizTreeMain.pas:6886
+msgid "Zoom in Treemap"
+msgstr "Přiblížit v mapě větvení"
+
+#: WizTreeMain.pas:6887
+msgid "Zoom out Treemap"
+msgstr "Oddálit v mapě větvení"
+
+#: exporttreemap.pas:57 WizTreeMain.pas:7193
+msgid "Save Treemap Image as .png file"
+msgstr "Uložit mapu větvení jako Image.png"
+
+#: exporttreemap.pas:58
+msgid "Save"
+msgstr "Uložit"
+
+#: exporttreemap.pas:60
+msgid "Width"
+msgstr "Šířka"
+
+#: exporttreemap.pas:61
+msgid "Height"
+msgstr "Výška"
+
+#: exporttreemap.pas:62
+msgid "Shades of Gray (single color)"
+msgstr "Stíny Šedé (jedna barva)"
+
+#: WizTreeMain.pas:7191
+msgid "Show Free Space on Treemap"
+msgstr "Ukázat Volné Místo na mapě větvení"
+
+msgid "File already exists - overwrite?"
+msgstr "Soubor již existuje - přepsat?"
+
+#: WizTreeMain.pas:3002 WizTreeMain.pas:3217
+msgid "Generated by"
+msgstr "Generoval"
+
+#: WizTreeMain.pas:3002 WizTreeMain.pas:3217
+msgid "You can hide this message by making a donation"
+msgstr "Tlačítko Darovat skryjete provedením finančního daru"
+
+#: WizTreeMain.pas:4452
+msgid "MFT Dump cancelled..."
+msgstr "MFT Výpis zrušen..."
+
+#: WizTreeMain.pas
+msgid "Export complete."
+msgstr "Export dokončen."
+
+#: WizTreeMain.pas:7815
+msgid "Copy file and size info to clipboard"
+msgstr "Kopírovat informace o souboru a velikost do schránky"
+
+#: WizTreeMain.pas:7816
+msgid "Export to .CSV file"
+msgstr "Exportovat do .CSV souboru"
+
+msgid "Colors"
+msgstr "Barvy"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Color Blind"
+msgstr "Barvoslepé"
+
+msgid "CSV file"
+msgstr "CSV soubor"
+
+msgid "Select CSV file"
+msgstr "Vybrat CSV soubor"
+
+msgid "Failed to import CSV file"
+msgstr "Importování CSV souboru selhalo"
+
+msgid "Color By"
+msgstr "Barva Od"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "File Extension(s)"
+msgstr "Přípona(y) Souboru"
+
+msgid "Export File Types to CSV file"
+msgstr "Exportovat Typy Souboru do CSV souboru"
+
+msgid "Display TB values"
+msgstr "Zobrazit hodnoty v TB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "UI Theme"
+msgstr "Motiv UI"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Light"
+msgstr "Světlý"
+
+msgid "Dark"
+msgstr "Tmavý"
+
+msgid "Sorry, your supporter code is only valid for versions of WizTree with version date"
+msgstr "Omlouváme se, ale váš podporovatelský kód je platný pouze pro WizTree s datem verze"
+
+msgid "or earlier."
+msgstr "nebo dřívější."
+
+msgid "This version of WizTree has version date"
+msgstr "Tahle verze WizTree má datum verze"
+
+msgid "Please install an older version of WizTree with a suitable version date, or purchase a new supporter code."
+msgstr "Nainstalujte prosím starší verzi programu WizTree s vhodným datem verze nebo si zakupte nový kód podporovatele."
+
+msgid "Version Date:"
+msgstr "Datum Verze:"
+
+msgid "Supporter license"
+msgstr "Podporovatelská licence"
+
+msgid "Enterprise license"
+msgstr "Enterprise licence"
+
+#: Displayed as X user license where is number
+msgid "user license"
+msgstr "uživatelská licence"
+
+msgid "Upgrades until:"
+msgstr "Aktualizace do:"
+
+msgid "lifetime"
+msgstr "doživotní"
+
+msgid "Supporter code not valid for this version"
+msgstr "Podporovatelský kód není platný pro tuto verzi"
+
+msgid "Select Multiple"
+msgstr "Vybrat Více"
+
+msgid "Multiple"
+msgstr "Více"
+
+msgid "Add Folder"
+msgstr "Přidat Složku"
+
+msgid "Remove Folder"
+msgstr "Odstranit Složku"
+
+msgid "is included within"
+msgstr "je součástí"
+
+msgid "They cannot both be selected."
+msgstr "Nemohou být vybrány oba."
+
+msgid "Select All"
+msgstr "Vybrat Oba"
+
+msgid "Select None"
+msgstr "Vybrat Žádné"
+
+msgid "Lifetime"
+msgstr "Doživotní"
+
+msgid "Show Folder and File Names on Treemap"
+msgstr "Ukázat Složky a Názvy Souborů na mapě větvení"
+
+msgid "Filter Scan Results"
+msgstr "Filtrovat Výsledky Skenu"
+
+msgid "Include Filter:"
+msgstr "Zahrnout Filtr:"
+
+msgid "Exclude Filter:"
+msgstr "Vyloučit Filtr:"
+
+msgid "Apply Filter"
+msgstr "Použít Filtr"
+
+msgid "Cut"
+msgstr "Vyjmout"
+
+msgid "Copy"
+msgstr "Kopírovat"
+
+msgid "Reset Configuration to default values"
+msgstr "Vrátit konfiguraci na původní hodnoty"
+
+msgid "Tweaks"
+msgstr "Úpravy"
+
+msgid "Enable drag/drop"
+msgstr "Povolit přetahování"
+
+msgid "Open file on double click"
+msgstr "Otevřít soubor po dvojím kliknutí"
+
+msgid "Monitor file system for changes"
+msgstr "Sledovat změny souborového systému"
+
+msgid "Show max modified date of all sub folders/files as folder's last modified date"
+msgstr "Ukázat poslední datum upravení všech podsložek/souborů jako poslední datum upravení složky"
+
+msgid "Use WizTree classic theme"
+msgstr "Používat klasické téma WizTree"
+
+msgid "Show horizontal lines in grids"
+msgstr "Zobrazit vodorovné čáry v mřížkách"
+
+msgid "Alternate row colors"
+msgstr "Střídat barvy řádků"
+
+msgid "Enable gradient colors in treemap"
+msgstr "Povolit přechodné barvy v mapě větvení"
+
+msgid "Number of Decimal places to display"
+msgstr "Počet desetinných míst, která se mají zobrazit"
+
+msgid "WizFile is an extremely rapid file finder application that uses methods similar to WizTree to rapidly index your hard drives. File search results are returned instantly as you type. WizFile provides a real time view of all files on your hard drives - any changes to the file search results will be updated in real time as they occur. It requires minimal CPU and RAM usage and has a negligible impact on the performance of your PC."
+msgstr "WizFile je extrémně rychlá aplikace na hledání souborů, která používá podobné metody jako WizTree k rychlému indexování vašich disků. Výsledky vyhledávání se okamžitě zobrazují při psaní. WizFile poskytuje zobrazení všech souborů na vašem disku v reálném čase - jakékoliv změny ve vyhledávání souborů se okamžitě aktualizují. Využívá minimum CPU a RAM a má zanedbatelný dopad na výkon vašeho PC."
